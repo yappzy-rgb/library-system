@@ -17,4 +17,4 @@
 - Bootstrap
 
 ## Live Demo
-https://yourproject.infinityfreeapp.com
+https://myprojectslms.infinityfreeapp.com/
